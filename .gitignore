@@ -3,5 +3,8 @@
 Include/
 Lib/
 Scripts/
+etc/
+share/
 *.cfg
 *.dat
+*.xlsx
