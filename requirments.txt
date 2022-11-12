@@ -50,7 +50,7 @@ parso==0.8.3
 pickleshare==0.7.5
 prometheus-client==0.15.0
 prompt-toolkit==3.0.32
-psutil==5.9.3
+psutil==5.9.4
 pure-eval==0.2.2
 pycparser==2.21
 Pygments==2.13.0
